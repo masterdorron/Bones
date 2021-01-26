@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Poroshenko",
+    "cash": 8000
+  },
+  {
+    "name": "Joe Biden",
+    "cash": 3000
+  },
+  {
+    "name": "Trump",
+    "cash": 6000
+  },
+  {
+    "name": "Zelenskiy",
+    "cash": 1200
+  },
+  {
+    "name": "Kim Chen Un",
+    "cash": 400
+  },
+  {
+    "name": "Yanukovich",
+    "cash": 800
+  },
+  {
+    "name": "Putin",
+    "cash": 10000
+  },
+  {
+    "name": "Navalny",
+    "cash": 1500
+  },
+  {
+    "name": "George Floyd",
+    "cash": 500
+  }
+]
