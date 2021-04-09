@@ -1,0 +1,1 @@
+bufer = str('Default')
